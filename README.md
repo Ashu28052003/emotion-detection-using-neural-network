@@ -1,2 +1,3 @@
-# emotion-detection-using-neural-network
-This project implements an emotion detection system using deep learning techniques, specifically a neural network model trained to classify human emotions based on facial expressions (or text/audio, if applicable). The goal is to accurately identify emotions such as happiness, sadness, anger, surprise, fear, and neutrality.
+# emotiondetection
+we have made a project on facial emotion detection using neural networks and have added opencv to it to detect realtime emotions using google colab.
+the code has been put in code section given above .
